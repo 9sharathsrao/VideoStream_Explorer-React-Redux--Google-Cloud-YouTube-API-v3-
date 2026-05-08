@@ -81,9 +81,3 @@ App runs at **http://localhost:3000**
 | Videos not loading | Check your API key in `.env` and ensure it has YouTube Data API v3 enabled |
 | Quota exceeded | YouTube API has a daily quota limit; wait 24hrs or use a new key |
 | Env variable not picked up | Restart the dev server after editing `.env` |
-
----
-
-## 📄 License
-
-This project is built for educational purposes.
