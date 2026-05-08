@@ -26,24 +26,6 @@ A responsive video discovery platform built with **React.js, Redux, and Tailwind
 
 ---
 
-## 📁 Project Structure
-
-```
-videostream-explorer/
-├── public/
-└── src/
-    ├── components/       # Reusable UI components
-    ├── pages/            # Route-level page components
-    ├── redux/
-    │   ├── store.js      # Redux store configuration
-    │   └── slices/       # Redux slices for state management
-    ├── utils/            # API helpers and constants
-    ├── App.js
-    └── index.js
-```
-
----
-
 ## ⚙️ Prerequisites
 
 - [Node.js](https://nodejs.org/) (v16 or above)
